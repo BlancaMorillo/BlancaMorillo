@@ -26,6 +26,9 @@ Data Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BlancaMorillo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlancaMorillo&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="https://github.com/BlancaMorillo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlancaMorillo&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<b>My LeetCode Stats</b>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BlancaMorillo?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
