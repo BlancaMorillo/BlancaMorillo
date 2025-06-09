@@ -2,7 +2,7 @@
 
 I'm **Blanca**, a software engineer and physicist in Panama.
 
-I currently work as a data engineer at [**Procter & Gamble**](https://us.pg.com/) and study my master in SWE at [**Technical University of Panama**](https://utp.ac.pa/).
+I currently work as a data engineer at [**Procter & Gamble**](https://us.pg.com/) and study my master in SWE at [**Technological University of Panama**](https://utp.ac.pa/).
 
 I'm passionate about solving complex problems and thrive in creating systems that simplify complexity and scale impact. My career has spanned from physics research to data engineering, where I've uncovered insights and patterns that drive efficiency. I’m passionate about building systems from scratch, apply business logic, and empower teams through clear, actionable documentation.
 
