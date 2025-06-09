@@ -1,33 +1,12 @@
-<h1 align="center">Hi 👋 I'm Blanca Morillo</h1>
+### Hello! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-# 💫 About Me:
-🌍  I'm a SWE master degree student at Technological University of Panama, passionate about learning computer science, quantum computing, and big data. You can contact me on:
-- [LinkedIn](https://www.linkedin.com/in/blancamorillo/), 
-- [Email](mailto:blanca@blancamorillo.com)
+I'm **Blanca**, a software engineer and physicist in Panama.
 
-# 💻 Tech Stack:
-#### Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I currently work as a data engineer at [**Procter & Gamble**](https://us.pg.com/) and study my master in SWE at [**Technical University of Panama**](https://utp.ac.pa/).
 
-#### Libraries/Frameworks: 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+I'm passionate about solving complex problems and thrive in creating systems that simplify complexity and scale impact. My career has spanned from physics research to data engineering, where I've uncovered insights and patterns that drive efficiency. I’m passionate about building systems from scratch, apply business logic, and empower teams through clear, actionable documentation.
 
-#### Technologies:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+Outside of work, I'm interested in following the development in AI. I read books, play video games and look for new music to listen to.
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=BlancaMorillo&theme=tokyonight&hide_border=false)<br/>
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/blancamorillo)
